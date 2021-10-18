@@ -1,0 +1,17 @@
+.app{
+  margin: auto;
+  width: 80%;
+  padding-top: 3%;
+}
+
+.same-line{
+  display: inline-block;
+}
+
+.clickable-meme{
+  cursor: pointer;
+}
+
+.max-size{
+  max-width: 100px;
+}
